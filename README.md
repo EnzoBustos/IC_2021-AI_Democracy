@@ -1,0 +1,2 @@
+# IC_2021-AI_Democracy
+Repositório dedicado ao projeto de Iniciação Científica AI Democracy, que consistiu na criação de um sumarizador automático e um sistema de topic modeling para os textos presentes nas Atas do Diário da República portuguesa, além da criação de um Reporter Chatbot que responde algumas perguntas da Ata de forma sub-ótima (que pode ser acessado em https://bot.dialogflow.com/16b85a81-20bc-4e48-a4ec-53e7626aafac)
